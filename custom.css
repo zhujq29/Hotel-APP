@@ -1,0 +1,10 @@
+@charset "utf-8";
+.ul-footer p {
+    margin: 0;
+    padding: 3px 15px;
+    font-size: 12px;
+}
+.ui-footer p {
+    margin: 0;
+    font-size: 12px;
+}

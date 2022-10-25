@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<widget
+	id = "com.tozai.example"
+	version = "1.0.0">
+
+<name>Tozai Hotel</name>
+
+<description>
+A simple PhoneGap Build application for Tozai Hotel
+</description>
+
+<author href="http://www.ipm.edu.mo" email="p1608971@ipm.edu.mo">
+Brenda Zhu
+</author>
+
+
+</widget>
